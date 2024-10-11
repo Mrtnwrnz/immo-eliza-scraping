@@ -1,0 +1,6 @@
+Aantal gevels,Aantal open haarden,Bewoonbare oppervlakte,Gemeubeld,Oppervlakte terras,Oppervlakte tuin,Staat van het gebouw,Type keuken,Zwembad,locality_name,postal_code,price,property_id,property_subtype,rooms
+4,False,55,False,10,110,Uitstekende staat,True,False,wenduine,8420,148000,1882546,huis,5
+4,False,51,False,null,120,Uitstekende staat,True,False,heist-aan-zee,8301,108000,2784938,huis,5
+1,False,,False,null,null,Op te frissen,True,False,borgerhout,2140,210000,4132492,appartement,4
+2,False,,False,null,null,Uitstekende staat,True,False,st-gilles,1060,895000,4611027,appartement,4
+,False,,False,null,null,Goed,True,False,oostende,8400,330000,4679861,huis,1
